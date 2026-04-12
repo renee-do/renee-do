@@ -1,7 +1,7 @@
 ## Hi, I'm Renee Do
 
-- MS Bioinformatics & Computational Biology
-- BS Biology | Minor Neuroscience
+- MS Bioinformatics & Computational Biology | Emphasis: Statistics
+- BS Biology | Minor: Neuroscience
 
 ## Technical Skills
 - Languages: Python, R, SAS, MATLAB, SQL
